@@ -1,0 +1,6 @@
+agency-swarm
+pyreadline3
+selenium
+gradio
+python-dotenv
+pinecone-client
