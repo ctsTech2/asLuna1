@@ -14,6 +14,9 @@ class CollectProjectDetails(BaseTool):
         ..., description="The input provided by the user in the chat interface."
     )
 
+    
+    
+    
     def run(self):
         """
         The implementation of the run method, where the tool's main functionality is executed.
